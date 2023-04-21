@@ -1,0 +1,5 @@
+dir - lista o que tem dentro do diretorio
+mkdir - cria um diretorio (pasta)
+cd / - vai para o diretorio raiz
+cd nomedapasta - abre a pasta
+cls - limpa o terminal

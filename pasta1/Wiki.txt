@@ -3,3 +3,10 @@ mkdir - cria um diretorio (pasta)
 cd / - vai para o diretorio raiz
 cd nomedapasta - abre a pasta
 cls - limpa o terminal
+add  . - adicion os arquivos na staging area
+git init - inicia o versionamento no diretório 
+git add . - adiciona alterações 
+git commit -m "comentário do commit" - faz o commit no seu repositório 
+git branch -M main - conecta na branch main local 
+git remote add origin <urldo repositório github>
+git push -u origin main - envia commit pro repositório github remoto
